@@ -1,8 +1,8 @@
 # Aegis Ecology Foundation
 
-Aegis Ecology Foundation is preparing its public GitHub presence.
+This organization handle is reserved as an alias for the canonical Aegis Ecology Foundation GitHub organization.
 
-- Website: https://Aegis-Ecology-Foundation.github.io
-- GitHub organization: https://github.com/Aegis-Ecology-Foundation
+- Canonical organization: https://github.com/AegisEcologyFoundation
+- Canonical website: https://AegisEcologyFoundation.github.io
 
-Public repositories, documentation, and project materials will appear here as they are published.
+Please use the canonical organization for repositories, issues, and public project materials.
